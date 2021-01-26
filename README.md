@@ -15,6 +15,6 @@ The primary codes are in the "MC16e_pt_selection" and "MC16e_pt_selection_strict
 
 Both files will output a ROOT file with all events that pass the selection process and for which the t-tbar interaction can be reconstructed.
 
-plot_weak and plot_strict create histograms of the results from "MC16e_pt_selection" and "MC16e_pt_selection_strict", respectively.
+"plot_weak" and "plot_strict" create histograms of the results from "MC16e_pt_selection" and "MC16e_pt_selection_strict", respectively.
 
 Jupyter notebooks beginning with "TopRecon" are older implementations retained for historical references.
